@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, i'm Juan Pablo Gaviria Barrera 👋
 
-<!--
-**Juanpagab99/Juanpagab99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Talking about personal stuffs :
+<ul>
+  <li>I'm a Python developer🐍💻</li>
+  <li>I'm currently learning skills about Testing and QA📢�🔎✏️📃</li>
+  <li>Find me at:
+    <ul>
+      <li><a href"https://www.linkedin.com/in/juan-pablo-gaviria-barrera-b668a6205/">LinkedIn</a></li>
+      <li><a href"https://twitter.com/JuanPaGaviria">Twitter</a></li>
+    </ul>
+  </li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguages and tools:
+[<img src="https://mariogl.com/wp-content/uploads/2018/01/git_logo-1-1.png" width="100">]
+[<img src="https://asociacionaepi.es/wp-content/uploads/2020/06/python-django-e1597917943905.png" width="100">]
+[<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="100">]
+[<img src="https://openthread.io/platforms/images/ot-zephyr-logo.png"  width="100">]
