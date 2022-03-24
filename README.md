@@ -14,6 +14,7 @@
 
 ### Lenguages and tools:
 <img src="https://mariogl.com/wp-content/uploads/2018/01/git_logo-1-1.png" width="100">
-<img src="https://asociacionaepi.es/wp-content/uploads/2020/06/python-django-e1597917943905.png" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100">
+<img src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" width="100">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="100">
 <img src="https://openthread.io/platforms/images/ot-zephyr-logo.png"  width="100">
