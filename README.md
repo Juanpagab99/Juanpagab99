@@ -6,8 +6,8 @@
   <li>I'm currently learning skills about Testing and QA📢�🔎✏️📃</li>
   <li>Find me at:
     <ul>
-      <li><a href"https://www.linkedin.com/in/juan-pablo-gaviria-barrera-b668a6205/">LinkedIn</a></li>
-      <li><a href"https://twitter.com/JuanPaGaviria">Twitter</a></li>
+      <li><a href="https://www.linkedin.com/in/juan-pablo-gaviria-barrera-b668a6205/">LinkedIn</a></li>
+      <li><a href="https://twitter.com/JuanPaGaviria">Twitter</a></li>
     </ul>
   </li>
 </ul>
