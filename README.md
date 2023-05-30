@@ -1,7 +1,7 @@
 # Hi, I'm Juan Pablo Gaviria Barrera 👋
 ## Junior Quality Assurance engineer 📱💻🔎🪲🐛
 <!--<img align="left" height=280 alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />-->
-<img align="right" height=350 alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" height=400 alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left">
   <b>Contact with me!</b>
 </p>
