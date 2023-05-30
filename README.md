@@ -9,15 +9,44 @@
 <a href="https://discord.gg/fDwCh9Vq"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
 </p>
 
+#### Summary
 
+<p>
+As a QA engineer, I am quite passionate about technology. My sense of
+belonging, common sense, and responsibility are qualities that I value and apply in my daily
+work. In addition, I have a strong work ethic and great communication skills, which allow me to
+collaborate effectively in multicultural teams. I am a proactive person, and I am always willing
+to take on and overcome new challenges. I am eager to expand my knowledge in order to
+adapt to different workflows, environments, emerging technologies, and the latest trends.
 
-#### Actualmente me dedico a:
+</p>
 
+___
 
-- Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías
-- Realizar un proyecto full stack (MEAN) 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-- Aportar semanalmente 3-4 mini-proyectos en github/codepen.
+#### Development skills
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+<img src=""/>&nbsp;
+</p>
+
 ___
 
 
