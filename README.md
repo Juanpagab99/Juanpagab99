@@ -1,15 +1,15 @@
 # Hi, I'm Juan Pablo Gaviria Barrera 👋
 ## Junior Quality Assurance engineer 📱💻🔎🪲🐛
 <!--<img align="left" height=280 alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />-->
-<img align="right" height=200 alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<!--<img align="right" height=100 widht=100 alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />-->
 <p align="left">
-  <b>Contact with me!</b>
+  <b>Connect with me!</b>
 </p>
 <p align="left">
-<a href="https://github.com/Juanpagab99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://twitter.com/JuanPaGaviria"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/juan-pablo-gaviria-barrera/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://discord.gg/fDwCh9Vq"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/Juanpagab99"><img widht=40 height=40 src="./github.png" /></a>&nbsp;
+<a href="https://twitter.com/JuanPaGaviria"><img widht=40 height=40 src="./twitter.png" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/juan-pablo-gaviria-barrera/"><img widht=40 height=40 src="./linkedin.png" /></a>&nbsp;
+<a href="https://discord.gg/fDwCh9Vq"><img widht=40 height=40 src="./discord.png" /></a>&nbsp;
 </p>
 
 
