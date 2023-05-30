@@ -72,6 +72,6 @@ ___
 ### My projects
 
 
-|<a href="https://lineadecodigo.com/html/alto-y-ancho-de-una-imagen-con-html/"> <img src="https://plates.splitwise.com/images/splitwise-logo-bordered.png" width="20" height="20"/> Splitwise project </a>|
+|<a target=_blank href="https://lineadecodigo.com/html/alto-y-ancho-de-una-imagen-con-html/"> <img src="https://plates.splitwise.com/images/splitwise-logo-bordered.png" width="20" height="20"/> Splitwise project </a>|
 |---|
 
