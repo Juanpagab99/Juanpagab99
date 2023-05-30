@@ -58,18 +58,12 @@ ___
 
 #### Project Management
 <p>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&nbsp;
 </p>
 
-#### Soft skills
-<p>
-</p>
-
-
 ___
-
 
 
 ### My projects
