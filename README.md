@@ -1,4 +1,4 @@
-## Hi, I'm Juan Pablo Gaviria Barrera 👋
+# Hi, I'm Juan Pablo Gaviria Barrera 👋
 ### Junior Quality Assurance engineer 📱💻🔎🪲🐛
 #### Contact with me
 
@@ -11,7 +11,7 @@
 
 ### Summary
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
+<img align="right" height=180 alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 <p aling="left">
 As a QA engineer, I am quite passionate about technology. My sense of
@@ -23,8 +23,11 @@ adapt to different workflows, environments, emerging technologies, and the lates
 
 </p>
 
+
 ___
-### Personal skills
+
+
+### My skills
 #### Development
 <p>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp;
