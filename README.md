@@ -11,7 +11,9 @@
 
 ### Summary
 
-<p>
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
+
+<p aling="left">
 As a QA engineer, I am quite passionate about technology. My sense of
 belonging, common sense, and responsibility are qualities that I value and apply in my daily
 work. In addition, I have a strong work ethic and great communication skills, which allow me to
