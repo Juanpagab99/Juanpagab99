@@ -7,9 +7,9 @@
 </p>
 <p align="left">
 <a href="https://github.com/Juanpagab99"><img widht=40 height=40 src="./github.png" /></a>&nbsp;
-<a href="https://twitter.com/JuanPaGaviria"><img widht=40 height=40 src="./twitter.png" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/juan-pablo-gaviria-barrera/"><img widht=40 height=40 src="./linkedin.png" /></a>&nbsp;
-<a href="https://discord.gg/fDwCh9Vq"><img widht=40 height=40 src="./discord.png" /></a>&nbsp;
+<a href="https://twitter.com/JuanPaGaviria"><img widht=40 height=40 src="./twitter (1).png" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/juan-pablo-gaviria-barrera/"><img widht=40 height=40 src="./linkedin (1).png" /></a>&nbsp;
+<a href="https://discord.gg/fDwCh9Vq"><img widht=40 height=40 src="./discord (1).png" /></a>&nbsp;
 </p>
 
 
