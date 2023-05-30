@@ -10,10 +10,6 @@
 </p>
 
 
-
-___
-
-
 #### Summary 🎯
 
 <p aling="left">
