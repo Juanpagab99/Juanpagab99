@@ -1,17 +1,22 @@
 # Hi, I'm Juan Pablo Gaviria Barrera 👋
-### Junior Quality Assurance engineer 📱💻🔎🪲🐛
-#### Contact with me
-
-<p>
+## Junior Quality Assurance engineer 📱💻🔎🪲🐛
+<!--<img align="left" height=280 alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />-->
+<img align="right" height=350 alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<p align="left">
+  <b>Contact with me!</b>
+</p>
+<p align="left">
 <a href="https://github.com/Juanpagab99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
 <a href="https://twitter.com/JuanPaGaviria"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/juan-pablo-gaviria-barrera/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://discord.gg/fDwCh9Vq"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
 </p>
 
-### Summary
 
-<img align="right" height=180 alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+___
+
+
+#### Summary 🎯
 
 <p aling="left">
 As a QA engineer, I am quite passionate about technology. My sense of
@@ -27,8 +32,8 @@ adapt to different workflows, environments, emerging technologies, and the lates
 ___
 
 
-### My skills
-#### Development
+#### My skills 💎
+##### Development
 <p>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>&nbsp;
@@ -39,7 +44,7 @@ ___
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
 </p>
 
-#### OS & Environments (Testing)
+##### OS & Environments (Testing)
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>&nbsp;
@@ -54,14 +59,14 @@ ___
 <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white"/>&nbsp;
 </p>
 
-####  Testing tools
+#####  Testing tools
 <p>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>&nbsp;
 </p>
 
-#### Project Management
+##### Project Management
 <p>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>&nbsp;
@@ -71,7 +76,7 @@ ___
 ___
 
 
-### My projects
+#### My projects 📃📋📈 
 
 
 |<a target="_blank" href="https://lineadecodigo.com/html/alto-y-ancho-de-una-imagen-con-html/"> <img src="https://plates.splitwise.com/images/splitwise-logo-bordered.png" width="20" height="20"/> Splitwise project </a>|
