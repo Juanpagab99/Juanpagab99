@@ -9,7 +9,7 @@
 <a href="https://discord.gg/fDwCh9Vq"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
 </p>
 
-#### Summary
+### Summary
 
 <p>
 As a QA engineer, I am quite passionate about technology. My sense of
@@ -22,7 +22,7 @@ adapt to different workflows, environments, emerging technologies, and the lates
 </p>
 
 ___
-### Skills
+### Personal skills
 #### Development
 <p>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp;
