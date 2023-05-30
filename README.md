@@ -1,16 +1,14 @@
-# Hi, I'm Juan Pablo Gaviria Barrera 👋
-## Junior Quality Assurance engineer 📱💻🔎🪲🐛
+<h1 align="center"> Hi, I'm Juan Pablo Gaviria Barrera 👋</h1>
+<h2 align="center"> Junior Quality Assurance engineer 📱💻🔎🪲🐛</h2>
 <!--<img align="left" height=280 alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />-->
 <!--<img align="right" height=100 widht=100 alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />-->
-<p align="left">
-  <b>Connect with me!</b>
+<p align="center">
+<a href="https://github.com/Juanpagab99"><img widht=30 height=30 src="./github (1).png" /></a>&nbsp;
+<a href="https://twitter.com/JuanPaGaviria"><img widht=30 height=30 src="./twitter (1).png" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/juan-pablo-gaviria-barrera/"><img widht=30 height=30 src="./linkedin (1).png" /></a>&nbsp;
+<a href="https://discord.gg/fDwCh9Vq"><img widht=30 height=30 src="./discord (1).png" /></a>&nbsp;
 </p>
-<p align="left">
-<a href="https://github.com/Juanpagab99"><img widht=40 height=40 src="./github.png" /></a>&nbsp;
-<a href="https://twitter.com/JuanPaGaviria"><img widht=40 height=40 src="./twitter (1).png" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/juan-pablo-gaviria-barrera/"><img widht=40 height=40 src="./linkedin (1).png" /></a>&nbsp;
-<a href="https://discord.gg/fDwCh9Vq"><img widht=40 height=40 src="./discord (1).png" /></a>&nbsp;
-</p>
+
 
 
 ___
