@@ -1,5 +1,5 @@
-<h1 align="center"> Hi, I'm Juan Pablo Gaviria Barrera 👋</h1>
-<h2 align="center"> Full Stack Developer | Manual QA Professional | Product Owner Trainee 📱💻🔎🪲🐛</h2>
+# **Hi, I'm Juan Pablo Gaviria Barrera 👋**
+## Full Stack Developer | Manual QA Professional | Product Owner Trainee 📱💻🔎🪲🐛
 
 
 ### Summary 🎯
