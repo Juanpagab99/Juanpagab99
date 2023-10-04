@@ -12,7 +12,6 @@ to different workflows, environments, emerging technologies, and the latest tren
 <a href="https://github.com/Juanpagab99"><img widht=30 height=30 src="./github (1).png" /></a>&nbsp;
 <a href="https://twitter.com/JuanPaGaviria"><img widht=30 height=30 src="./twitter (1).png" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/juan-pablo-gaviria-barrera/"><img widht=30 height=30 src="./linkedin (1).png" /></a>&nbsp;
-<a href="https://discord.gg/fDwCh9Vq"><img widht=30 height=30 src="./discord (1).png" /></a>&nbsp;
 
 
 ___
