@@ -1,8 +1,6 @@
 # **Hi, I'm Juan Pablo Gaviria Barrera 👋**
 ## Full Stack Developer | Manual QA Professional | Product Owner Trainee 📱💻🔎🪲🐛
 
-
-### Summary 🎯
 As a software developer and QA engineer, I am quite passionate about technology. My sense of belonging, common
 sense, and responsibility are qualities that I value and apply in my daily work. In addition, I have a strong work ethic and
 great communication skills, which allow me to collaborate effectively in multicultural teams. I am a proactive person,
