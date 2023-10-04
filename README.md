@@ -60,9 +60,3 @@ ___
 ___
 
 
-### My test projects portfolio 📃📋📈 
-
-
-|<a target="_blank" href=""> <img src="https://plates.splitwise.com/images/splitwise-logo-bordered.png" width="20" height="20"/> Splitwise project </a>|
-|---|
-
