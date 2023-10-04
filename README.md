@@ -3,7 +3,11 @@
 
 
 ### Summary 🎯
-As a QA engineer & Full Stack developer, I am quite passionate about technology. My sense of belonging, common sense, and responsibility are qualities that I value and apply in my daily work. In addition, I have a strong work ethic and great communication skills, which allow me to collaborate effectively in multicultural teams. I am a proactive person, and I am always willing to take on and overcome new challenges. I am eager to expand my knowledge in order to adapt to different workflows, environments, emerging technologies, and the latest trends.
+As a software developer and QA engineer, I am quite passionate about technology. My sense of belonging, common
+sense, and responsibility are qualities that I value and apply in my daily work. In addition, I have a strong work ethic and
+great communication skills, which allow me to collaborate effectively in multicultural teams. I am a proactive person,
+and I am always willing to take on and overcome new challenges. I am eager to expand my knowledge in order to adapt
+to different workflows, environments, emerging technologies, and the latest trends. 
 
 📫 <b>Find me at:</b> 
 <p>
